@@ -478,6 +478,7 @@ fi
 DOMAINS='vvv.dev
          local.wordpress.dev
          local.wordpress-trunk.dev
+         local.community.dev
          src.wordpress-develop.dev
          build.wordpress-develop.dev'
 
